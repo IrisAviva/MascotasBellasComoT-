@@ -1,0 +1,101 @@
+body
+{
+   background-color: rgb(223, 175, 175); 
+}
+img{
+    
+    width: 250px;
+    height: 300px;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
+p{
+ width: 270px;
+}
+
+#button{
+    background-color: rgb(42, 42, 51);
+    color: white;
+    border-radius: 20px;
+    width: 150px;
+    height: 47px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.adopta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.categoria{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.boton1{
+    
+    display: flex;
+   justify-content: center; 
+   align-items: center;
+   flex-direction: row;
+
+}
+
+button img{
+    width:50px;
+    height:50px;
+    
+    
+}
+.pp{
+   margin: 25px;
+   background-color: rgb(15, 15, 110);
+   color: aliceblue;
+   border-radius: 10%;
+
+   
+}
+
+.pp:hover{
+background-color: brown;
+}
+
+
+  #footer {
+    background-color: rgb(226, 211, 211);
+    width: 100%;
+    
+   
+    
+  }
+
+  .boton2{    
+        display: flex;
+       justify-content: center; 
+       align-items: center;
+       flex-direction: row;
+      
+  }
+    
+  
+  .ppf{
+    margin: 25px;
+    color: aliceblue;
+    border-radius: 10%;   
+ }
+
+ #chester{
+    background-color: rgb(42, 42, 51);
+    color: white;
+ }
